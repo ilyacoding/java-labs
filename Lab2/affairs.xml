@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<affairs>
+    <affair ID="0">
+        <name>Ilya Kavalenka</name>
+        <birthDate>21.01.1998</birthDate>
+        <course>3</course>
+    </affair>
+    <affair ID="1">
+        <name>Vlad Ambrosevich</name>
+        <birthDate>27.08.1998</birthDate>
+        <course>3</course>
+    </affair>
+</affairs>
