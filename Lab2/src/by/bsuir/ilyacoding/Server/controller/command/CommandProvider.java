@@ -18,6 +18,8 @@ public class CommandProvider {
 		commands.put("delete", new DeleteAffairCommand());
 		commands.put("update", new UpdateAffairCommand());
 		commands.put("all", new GetAllAffairsCommand());
+
+		commands.put("help", new HelpCommand());
 	}
 
 	public Command getCommand(String commandName) {
